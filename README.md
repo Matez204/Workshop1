@@ -20,5 +20,5 @@ or why they wanted it. Respondents will be anonymous.
 - As a __programmer__ I want a __SSD__ for __programming__.
 
 Some of the interviewees recommended functionalities such as
-filtering by brand or searching by product name, and others, but only
-these two were added to the program.
+filtering by brand, and others, but only
+these one was added to the program.

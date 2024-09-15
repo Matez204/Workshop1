@@ -63,7 +63,7 @@ public class Main {
         Cart carrito = new Cart();
         int option, selection = 0;
         System.out.println("Welcome to a catalog of electronic devices.");
-        System.out.println("1. All products \n2. Categories\n3. Filter by brand\n4. Search.\n5. Display shopping cart\n6. Exit");
+        System.out.println("1. All products \n2. Categories\n3. Filter by brand\n4. Display shopping cart\n5. Exit");
         option = sc.nextInt();
         while (option != 5) {
             if (option == 1) {
